@@ -12,3 +12,9 @@ Table of Contents<br><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/Lists.ipynb">6) Lists</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/Dictionaries.ipynb">7) Dictionary</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/Tuples.ipynb">8) Tuples</a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/intro-statements.ipynb">9) Intrduction Satements </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/if-elif-else.ipynb">10) If elif else</a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/for-loop_statements.ipynb">11) For Loop </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/while-loop_statements.ipynb">12) While Loops </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/useful-operators.ipynb">13) Useful Operators</a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/list-comprehensions.ipynb">14) List Comprehensions</a><br>
