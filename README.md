@@ -19,5 +19,5 @@ Table of Contents<br><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/useful-operators.ipynb">13) Useful Operators</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/list-comprehensions.ipynb">14) List Comprehensions</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/Sets.ipynb">15) Sets</a><br>
-<a href="https://github.com/vkpillania/python3.7/blob/master/del-statements.ipynb">15) del Statements </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/del-statements.ipynb">16) del Statements </a><br>
 
