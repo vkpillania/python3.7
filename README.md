@@ -20,4 +20,7 @@ Table of Contents<br><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/list-comprehensions.ipynb">14) List Comprehensions</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/Sets.ipynb">15) Sets</a><br>
 <a href="https://github.com/vkpillania/python3.7/blob/master/del-statements.ipynb">16) del Statements </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/functions.ipynb">17) Functions </a><br>
+<a href="https://github.com/vkpillania/python3.7/blob/master/lambda-map-filter-and-reduce.ipynb">18)lambda-map-filter-and-reduce</a><br>
+
 
